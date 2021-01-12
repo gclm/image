@@ -1,5 +1,5 @@
-name: Sync
-on: page_build
+name: Images Sync
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
